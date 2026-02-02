@@ -1,0 +1,7 @@
+{
+  "name": "NyayaDost - SME Legal Guard",
+  "description": "A sophisticated GenAI-powered legal assistant for Indian SMEs to analyze contracts, identify risks, and receive actionable advice in English and Hindi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
